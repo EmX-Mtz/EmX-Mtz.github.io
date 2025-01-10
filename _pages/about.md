@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " <span style="background-color:yellow;"> About me </span>"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,3 +13,5 @@ Welcome! I am a PhD student in Computer Science at the Centro de [Investigación
 
 I earned my MSc in Computing Science and Electronics from the [Universidad Autónoma del Estado de Hidalgo](https://www.uaeh.edu.mx/), and prior to that, I obtained a degree in Physics. 
 My academic research focuses on the applications of quantum computing techniques within unsupervised machine learning.
+
+#<span style="background-color:yellow;">dfdfdfdf</span>
