@@ -14,11 +14,9 @@ Welcome! I am a PhD student in Computer Science at the Centro de [Investigación
 I earned my MSc in Computing Science and Electronics from the [Universidad Autónoma del Estado de Hidalgo (AUEH)](https://www.uaeh.edu.mx/), and prior to that, I obtained a degree in Physics. 
 My academic research focuses on the applications of quantum computing techniques within unsupervised machine learning.
 
----
+<br>
 
-"News"
-
----
+# News
 
 - **[Sep. '24]** Lanzamiento de la nueva versión del software.
 - **[Aug. '24]** Actualización importante en la documentación.
