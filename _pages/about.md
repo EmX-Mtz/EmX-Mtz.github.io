@@ -18,6 +18,6 @@ My academic research focuses on the applications of quantum computing techniques
 
 # News
 
-- <span style="color:orange;">**[Jan. '25]**</span> -Re-release of this website.
+- <span style="color:orange;">**[Jan. '25]**</span> Relaunch of this website.
 
-<span style="background-color:yellow;">#Quantum</span>
+<!-- <span style="background-color:yellow;">#Quantum</span>  -->
