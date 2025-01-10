@@ -18,8 +18,8 @@ My academic research focuses on the applications of quantum computing techniques
 
 # News
 
-- **[Sep. '24]** Lanzamiento de la nueva versión del software.
-- **[Aug. '24]** Actualización importante en la documentación.
-- **[Jul. '24]** Anuncio de la conferencia anual.
+<br>
 
-#<span style="background-color:yellow;">dfdfdfdf</span>
+- <span style="background-color:orange;">**[Jan. '25]**</span> Lanzamiento de la nueva versión del software.
+
+#<span style="background-color:yellow;">Quantum</span>
